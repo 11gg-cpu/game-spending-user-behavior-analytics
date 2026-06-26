@@ -1,0 +1,9 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="360" rx="24" fill="#F8FAFC"/>
+  <rect x="42" y="38" width="1016" height="284" rx="20" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="72" y="88" fill="#0F172A" font-family="Inter, Arial" font-size="26" font-weight="800">Gaming Product Analytics View</text>
+  <text x="72" y="122" fill="#64748B" font-family="Inter, Arial" font-size="15">Segmentation, engagement, spending motivation, and product recommendations.</text>
+  <rect x="72" y="164" width="280" height="118" rx="16" fill="#ECFDF5"/><text x="100" y="206" fill="#065F46" font-family="Inter, Arial" font-size="18" font-weight="800">User Segments</text><text x="100" y="238" fill="#047857" font-family="Inter, Arial" font-size="15">Competitive core · cosmetic spender · event returner</text>
+  <rect x="410" y="164" width="280" height="118" rx="16" fill="#EFF6FF"/><text x="438" y="206" fill="#1E3A8A" font-family="Inter, Arial" font-size="18" font-weight="800">Metrics</text><text x="438" y="238" fill="#2563EB" font-family="Inter, Arial" font-size="15">Weekly sessions · spend · retention signal</text>
+  <rect x="748" y="164" width="270" height="118" rx="16" fill="#FEF3C7"/><text x="776" y="206" fill="#92400E" font-family="Inter, Arial" font-size="18" font-weight="800">Product Insight</text><text x="776" y="238" fill="#B45309" font-family="Inter, Arial" font-size="15">Live ops · battle pass · identity value</text>
+</svg>

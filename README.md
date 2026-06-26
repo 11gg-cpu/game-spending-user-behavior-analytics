@@ -21,6 +21,12 @@ A product analytics case study on gaming user behavior, spending motivation, ret
 | Main skills | User segmentation, retention proxy design, spending motivation analysis |
 | Recruiter signal | Strong product sense for digital entertainment and live-ops systems |
 
+## Workflow Preview
+
+<p align="center">
+  <img src="assets/workflow-preview.svg" alt="Game analytics workflow preview" width="100%" />
+</p>
+
 ## Project Background
 
 As a long-time player of games such as Honor of Kings, Counter-Strike, Naraka: Bladepoint, and Hearthstone, I wanted to turn personal product experience into a structured analytics project. Instead of only describing opinions, this project frames gaming behavior through data analytics and product management concepts.
@@ -81,3 +87,13 @@ game-spending-user-behavior-analytics/
 ## Resume Bullet
 
 - Developed a gaming product analytics case study using user segmentation, spending motivation analysis, and retention metric design to translate player behavior into monetization and live-ops recommendations.
+
+## Next Improvements
+
+- Build a small Power BI-style dashboard mockup.
+- Add more synthetic player cohorts and retention metrics.
+- Add a monetization feature comparison across game genres.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
