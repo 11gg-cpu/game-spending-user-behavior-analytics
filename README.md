@@ -27,6 +27,15 @@ A product analytics case study on gaming user behavior, spending motivation, ret
   <img src="assets/workflow-preview.svg" alt="Game analytics workflow preview" width="100%" />
 </p>
 
+## Screenshot & Data Output
+
+<p align="center">
+  <img src="screenshots/segment-dashboard.svg" alt="Gaming user behavior dashboard preview" width="100%" />
+</p>
+
+- Segment summary dataset: [`data/user_segments_summary.csv`](data/user_segments_summary.csv)
+- Analysis output: [`reports/data-output.md`](reports/data-output.md)
+
 ## Project Background
 
 As a long-time player of games such as Honor of Kings, Counter-Strike, Naraka: Bladepoint, and Hearthstone, I wanted to turn personal product experience into a structured analytics project. Instead of only describing opinions, this project frames gaming behavior through data analytics and product management concepts.
