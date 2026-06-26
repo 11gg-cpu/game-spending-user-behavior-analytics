@@ -1,6 +1,25 @@
+<p align="center">
+  <img src="assets/project-banner.svg" alt="Game Spending and User Behavior Analytics banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Product%20Analytics-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Gaming%20%7C%20Consumer%20Apps-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methods-Segmentation%20%7C%20Retention%20%7C%20Monetization-16A34A?style=flat-square" />
+</p>
+
 # Game Spending & User Behavior Analytics
 
 A product analytics case study on gaming user behavior, spending motivation, retention signals, and monetization design.
+
+## At a Glance
+
+| Item | Detail |
+| --- | --- |
+| Role fit | Product analyst, AI operations, consumer app product roles |
+| Core value | Converts gaming experience into measurable user and monetization insight |
+| Main skills | User segmentation, retention proxy design, spending motivation analysis |
+| Recruiter signal | Strong product sense for digital entertainment and live-ops systems |
 
 ## Project Background
 

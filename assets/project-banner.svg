@@ -1,0 +1,10 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="28" fill="#111827"/>
+  <rect x="54" y="50" width="1092" height="220" rx="24" fill="#0F172A" stroke="#334155"/>
+  <circle cx="980" cy="154" r="84" fill="#22C55E" opacity="0.14"/>
+  <path d="M86 232H1116" stroke="#334155" stroke-width="2"/>
+  <path d="M150 232V184M260 232V138M370 232V166M480 232V112M590 232V150M700 232V96" stroke="#2DD4BF" stroke-width="16" stroke-linecap="round"/>
+  <text x="86" y="118" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Game Spending &amp; User Behavior Analytics</text>
+  <text x="88" y="164" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">Segmentation · retention · monetization insight</text>
+  <text x="88" y="270" fill="#A7F3D0" font-family="Inter, Arial, sans-serif" font-size="16">Turning player experience into product analytics reasoning</text>
+</svg>
