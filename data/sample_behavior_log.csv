@@ -1,0 +1,5 @@
+user_id,game,segment,weekly_sessions,monthly_spend_gbp,main_motivation,retention_signal
+U001,Honor of Kings,Competitive Core,18,12,status,ranked_progression
+U002,Counter-Strike,Cosmetic Spender,9,35,identity,skin_collection
+U003,Naraka Bladepoint,Event-Driven Returner,6,8,limited_event,event_completion
+U004,Hearthstone,Casual Explorer,3,0,exploration,new_mode_trial
